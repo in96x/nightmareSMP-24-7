@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nightmaresmpss.falixsrv.me",
-    "port": 23765,
+    "ip": "nightmareSMP.enderman.cloud",
+    "port": 50115,
     "version": "1.18",
     "try-creative": false
   },
