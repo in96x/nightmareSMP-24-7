@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "nightmareSMP",
+    "username": "DuckSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "nightmareSMP.enderman.cloud",
-    "port": 50115,
+    "ip": "ducksmpss.falixsrv.me",
+    "port": 27235,
     "version": "1.18",
     "try-creative": false
   },
@@ -20,14 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "nightmareSMP"
+      "password": "DucksSMP"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
