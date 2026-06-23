@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ducksmpss.falixsrv.me",
-    "port": 27235,
+    "port": "27235",
     "version": "1.18",
     "try-creative": false
   },
