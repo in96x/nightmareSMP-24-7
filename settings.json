@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ducksmpss.falixsrv.me",
-    "port": "27235",
+    "ip": "frostsmps1.play.hosting",
+    "port": "25697",
     "version": "1.18",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "DucksSMP"
+      "password": "FrostSMP.AFK"
     },
     "anti-afk": {
       "enabled": true,
@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "Join Discord ",
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1510304543186092244/6vbAXGUxNIHekt_FI4zvPfzauIWbZncVHk4cSTD6v6DsbqOcisgLx6swcGHlMXA-UuOX",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
